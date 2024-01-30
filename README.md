@@ -52,7 +52,9 @@ https://raw.githubusercontent.com/buliangchen/clash/9bae78eaec2d346aa8fe62678d16
 
 点击添加配置
 
+```
 https://raw.githubusercontent.com/buliangchen/nodnsleak/main/shadowrocket-rules
+```
 
 下载后使用该配置
 
