@@ -9,7 +9,7 @@
 3.在config=后加上
 
 ```
-https://raw.githubusercontent.com/buliangchen/clash/9bae78eaec2d346aa8fe62678d162ba9ac2d6388/nodnsleak
+https://raw.githubusercontent.com/buliangchen/nodnsleak/main/clash-rules
 ```
 
 拼接成新的地址导入clash即可
