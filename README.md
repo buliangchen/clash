@@ -1,6 +1,6 @@
 ## 解决DNS泄露篇
 
-一 、订阅
+##### 一 、订阅
 
 1.随意转换成clash配置文件（长链接）
 
@@ -16,13 +16,13 @@ https://raw.githubusercontent.com/buliangchen/nodnsleak/main/clash-rules
 
 
 
-#### 电脑端
+##### 二、电脑端
 
 组策略-管理模板-网络-DNS客户端-禁用只能多宿主名称解析- 双击选择“已启用” 
 
 
 
-#### 安卓V2rayNG
+##### 三、安卓V2rayNG
 
 1、在设置里
 
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/buliangchen/nodnsleak/main/clash-rules
 
 重点要 “断开重连” 规则才会生效！
 
-#### clash
+##### 四、clash
 
 1、将设置【覆写】--DNS-策略 改成【强制启用】
 
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/buliangchen/nodnsleak/main/clash-rules
 
 
 
-#### 小火箭
+##### 五、小火箭
 
 点击添加配置
 
